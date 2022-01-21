@@ -1,6 +1,7 @@
 package com.joolsf.fpserviceexample
 
 import cats.effect.IO
+import com.joolsf.fpserviceexample.delete.{FpserviceexampleRoutes, HelloWorld}
 import org.http4s._
 import org.http4s.implicits._
 import munit.CatsEffectSuite

@@ -1,4 +1,4 @@
-package com.joolsf.fpserviceexample
+package com.joolsf.fpserviceexample.delete
 
 import cats.Applicative
 import cats.implicits._
