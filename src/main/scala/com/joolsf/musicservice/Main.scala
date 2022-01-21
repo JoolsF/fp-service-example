@@ -1,4 +1,4 @@
-package com.joolsf.fpserviceexample
+package com.joolsf.musicservice
 
 import cats.effect.{ExitCode, IO, IOApp}
 
